@@ -1,0 +1,42 @@
+{
+  "famous_male": {
+    "name": "Albert-László Barabási",
+    "openalex_id": "PLACEHOLDER_ID_1"
+  },
+  "famous_female": {
+    "name": "Reka Albert",
+    "openalex_id": "PLACEHOLDER_ID_2"
+  },
+  "random_female": {
+    "name": <FEMALE NAME IN QUOTATION MARKS>,
+    "openalex_id": "PLACEHOLDER_ID_3"
+  },
+  "random_male": {
+    "name": <MALE NAME IN QUOTATION MARKS>,
+    "openalex_id": "PLACEHOLDER_ID_4"
+  },
+  "politician_female": {
+    "name": "Kamala Harris",
+    "openalex_id": "PLACEHOLDER_ID_5"
+  },
+  "politician_male": {
+    "name": "Emmanuel Macron",
+    "openalex_id": "PLACEHOLDER_ID_6"
+  },
+  "fictitious_female": {
+    "name": "Huethea Arabalar",
+    "openalex_id": "PLACEHOLDER_ID_7"
+  },
+  "fictitious_male": {
+    "name": "Agandaur Heilamin",
+    "openalex_id": "PLACEHOLDER_ID_8"
+  },
+  "movie_female": {
+    "name": "Leslie Winkle",
+    "openalex_id": "PLACEHOLDER_ID_9"
+  },
+  "movie_male": {
+    "name": "Sheldon Cooper",
+    "openalex_id": "PLACEHOLDER_ID_10"
+  }
+}
